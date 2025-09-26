@@ -1,0 +1,17 @@
+Lista de Produtos
+Café: R$36.00
+Preço Médio: R$ 17.25
+Prosuto mais caro: Café R$36.00
+produto mais barato:ÁguaR$5.50
+Chá: R$10.00
+Preço Médio: R$ 17.25
+Prosuto mais caro: Café R$36.00
+produto mais barato:ÁguaR$5.50
+Refrigeraaante: R$17.50
+Preço Médio: R$ 17.25
+Prosuto mais caro: Café R$36.00
+produto mais barato:ÁguaR$5.50
+Água: R$5.50
+Preço Médio: R$ 17.25
+Prosuto mais caro: Café R$36.00
+produto mais barato:ÁguaR$5.50
